@@ -164,7 +164,7 @@ Second part of Airbnb: Joann Vuong
 fourth part of Airbnb: jzamora5
 
 ## Authors Airbnb_clone_v4:
-Christian Zuares [https://github.com/Thorlak2202/AirBnB_clone_v4]
+Christian Suarez [https://github.com/Thorlak2202/AirBnB_clone_v4]
 Maribel Serna A [https://github.com/MarySerna]
 ## License
 Public Domain. No copy write protection. 
